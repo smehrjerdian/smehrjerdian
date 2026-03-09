@@ -1,15 +1,16 @@
-what i'm building
-🚀 Emerge — building a consumer social app. more to come. https://www.tryemerge.xyz/
-🔗 Lazer — leading growth & BD at a crypto product studio, helping teams ship real software in web3. https://www.lazertechnologies.com/
+What I'm Building
+Emerge — building a consumer social app levarging Ai, mini apps and ai agents to create fun personalized content experiences directly from a social feed leveraging social context. more to come. https://www.tryemerge.xyz/
+Lazer — leading growth & BD at a crypto product studio, helping teams ship real software in web3. https://www.lazertechnologies.com/
+Rodeo - Former PM at Rodeo.club where we built a creative social network that was revered as one of the most well designed consumer social experieces in all of crypt
 
-where i've been 
+Where I've been 
 
-WarnerMedia — product manager, worked on products reaching millions of people
+WarnerMedia — product manager, worked on data science driven advertising sales product
 Rodeo — product manager, helped shape the product from the ground up
-Georgia Tech — industrial engineering, where i learned to optimize everything (including my sleep schedule)
+Georgia Tech — Industrial & Systems Engineering, where I learned to optimize everything (including my sleep schedule)
 
-what i care about
-i sit at the intersection of product, culture, and community. i think the best products come from people who actually live in the world they're building for.
+What I care about
+i sit at the intersection of technology & culture, and thrive building products. I think the best products come from people who actually live in the world they're building for.
 
 🐦 twitter/x: @atownbrown
 📧 email: smehrjerdian@gmail.com
