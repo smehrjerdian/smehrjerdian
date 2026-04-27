@@ -1,7 +1,7 @@
 What I'm Building
-Capacitr - Capacitr turns real-time internet signals—trends, news, and social chatter—into personalized, actionable trading opportunities by intelligently mapping narratives to the most relevant prediction, perpetual, and options markets in one unified feed. https://capacitr.lol/
+Capacitr - Capacitr turns real-time internet signals—trends, news, and social chatter—into personalized, actionable trading opportunities by intelligently mapping narratives to the most relevant prediction, perpetual, and options markets in one unified feed. https://capacitr.xyz/
 
-Discover new markets here: https://markets.capacitr.lol/
+Discover new markets here: https://markets.capacitr.xyz/
 
 Emerge — building a consumer social app levarging Ai, mini apps and ai agents to create fun personalized content experiences directly from a social feed leveraging social context. more to come. https://www.tryemerge.xyz/
 Lazer — leading growth & BD at a crypto product studio, helping teams ship real software in web3. https://www.lazertechnologies.com/
